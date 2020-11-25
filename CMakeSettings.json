@@ -1,0 +1,10 @@
+﻿{
+  "configurations": [
+    {
+      "name": "x64-Debug-vit",
+      "inheritEnvironments": [ "msvc_x64" ],
+      "cmakeExecutable": "C:/Program Files/CMake/bin/cmake.exe",
+      "variables": []
+    }
+  ]
+}
