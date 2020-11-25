@@ -1,6 +1,5 @@
 cmake_minimum_required(VERSION 3.19)
-
-project(CmakeExample)
+project(AnIntro)
 
 if (MSVC)
   add_compile_options(/W4)

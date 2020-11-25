@@ -31,6 +31,9 @@
 *.out
 *.app
 
+# CMake
+CMakeUserPresets.json
+
 # Visual Studio
 .vs
 
