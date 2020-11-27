@@ -34,7 +34,8 @@
       "inherits": "default",
       "displayName": "Ninja Multi-Config",
       "description": "Default build using Ninja Multi-Config generator",
-      "generator": "Ninja Multi-Config"
+      "generator": "Ninja Multi-Config",
+      "binaryDir": "${sourceDir}/build/ninja-multi"
     }
   ],
   "vendor": {
