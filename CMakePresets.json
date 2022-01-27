@@ -36,6 +36,24 @@
       "description": "Default build using Ninja Multi-Config generator",
       "generator": "Ninja Multi-Config",
       "binaryDir": "${sourceDir}/build/ninja-multi"
+    },
+    {
+      "name": "mac",
+      "inherits": "default",
+      "displayName": "macOS Config",
+      "description": "Default build made into `win` folder"
+    },
+    {
+      "name": "win",
+      "inherits": "default",
+      "displayName": "Windows Config",
+      "description": "Default build made into `win` folder"
+    },
+    {
+      "name": "lin",
+      "inherits": "default",
+      "displayName": "macOS Config",
+      "description": "Default build made into `win` folder"
     }
   ],
   "vendor": {
