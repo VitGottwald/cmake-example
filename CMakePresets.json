@@ -41,7 +41,7 @@
       "name": "mac",
       "inherits": "default",
       "displayName": "macOS Config",
-      "description": "Default build made into `win` folder"
+      "description": "Default build made into `mac` folder"
     },
     {
       "name": "win",
@@ -53,7 +53,7 @@
       "name": "lin",
       "inherits": "default",
       "displayName": "macOS Config",
-      "description": "Default build made into `win` folder"
+      "description": "Default build made into `lin` folder"
     }
   ],
   "vendor": {
